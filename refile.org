@@ -1,0 +1,15 @@
+* TODO verify sip report generated
+:LOGBOOK:
+:END:
+[2011-12-09 Fri 11:16]
+[[file:~/projects/notifymd/nmd-config/floyd/production/cron.d/athena_sip_report::0%203%20*%20*%20*%20deploy%20/apps/floyd/http_invoker.py%20athena-sip-report][file:~/projects/notifymd/nmd-config/floyd/production/cron.d/athena_sip_report::0 3 * * * deploy /apps/floyd/http_invoker.py athena-sip-report]]
+* TODO load config file rather than passing params
+:LOGBOOK:
+:END:
+[2011-12-09 Fri 11:20]
+[[file:~/projects/notifymd/floyd/src/floyd/server.clj]]
+* TODO push production build
+:LOGBOOK:
+:END:
+[2011-12-09 Fri 11:21]
+[[file:~/projects/notifymd/floyd/src/floyd/server.clj]]

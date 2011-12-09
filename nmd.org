@@ -1,0 +1,114 @@
+* Admin/Misc
+** DONE Setup time tracking
+:LOGBOOK:
+:END:
+CLOCK: [2011-12-07 Wed 08:15]--[2011-12-07 Wed 09:07] =>  0:52
+** DONE Clean up NMD inbox
+CLOCK: [2011-12-07 Wed 09:08]--[2011-12-07 Wed 09:53] =>  0:45
+[2011-12-07 Wed]
+** DONE General
+CLOCK: [2011-12-07 Wed 10:03]--[2011-12-07 Wed 10:12] =>  0:09
+CLOCK: [2011-12-07 Wed 09:53]--[2011-12-07 Wed 10:03] =>  0:10
+[2011-12-07 Wed]
+** DONE Setup org-mode
+:LOGBOOK:
+CLOCK: [2011-12-07 Wed 14:07]--[2011-12-07 Wed 14:08] =>  0:01
+CLOCK: [2011-12-07 Wed 14:02]--[2011-12-07 Wed 14:03] =>  0:01
+CLOCK: [2011-12-07 Wed 13:53]--[2011-12-07 Wed 13:55] =>  0:02
+CLOCK: [2011-12-07 Wed 13:51]--[2011-12-07 Wed 13:53] =>  0:02
+CLOCK: [2011-12-07 Wed 13:20]--[2011-12-07 Wed 13:22] =>  0:02
+CLOCK: [2011-12-07 Wed 13:19]--[2011-12-07 Wed 13:20] =>  0:01
+CLOCK: [2011-12-07 Wed 12:38]--[2011-12-07 Wed 12:38] =>  0:08
+CLOCK: [2011-12-07 Wed 12:30]--[2011-12-07 Wed 12:38] =>  0:08
+CLOCK: [2011-12-07 Wed 10:44]--[2011-12-07 Wed 10:57] =>  0:13
+CLOCK: [2011-12-07 Wed 10:12]--[2011-12-07 Wed 10:22] =>  0:10
+:END:
+** TODO Expense report for clojure/conj
+  :LOGBOOK:
+  CLOCK: [2011-12-07 Wed 13:39]--[2011-12-07 Wed 13:48] =>  0:09
+  :END:
+[2011-12-07 Wed 13:39]
+[[file:~/org/notes.org::*Expense%20report%20for%20clojure/conj][Expense report for clojure/conj]]
+** STARTED General work
+:LOGBOOK:
+CLOCK: [2011-12-09 Fri 11:40]--[2011-12-09 Fri 12:01] =>  0:21
+CLOCK: [2011-12-09 Fri 10:16]--[2011-12-09 Fri 10:19] =>  0:03
+CLOCK: [2011-12-09 Fri 10:15]--[2011-12-09 Fri 10:16] =>  0:01
+CLOCK: [2011-12-09 Fri 09:45]--[2011-12-09 Fri 10:14] =>  0:29
+CLOCK: [2011-12-08 Thu 08:03]--[2011-12-08 Thu 08:30] =>  0:27
+:END:
+* OPs Support/Maintenace
+* Application Support
+** WebMessenger
+
+*** DONE Christopher's WM request
+  :LOGBOOK:
+  CLOCK: [2011-12-07 Wed 14:20]--[2011-12-07 Wed 14:43] =>  0:23
+  CLOCK: [2011-12-07 Wed 14:08]--[2011-12-07 Wed 14:20] =>  0:12
+  CLOCK: [2011-12-07 Wed 13:37]--[2011-12-07 Wed 13:38] =>  0:01
+  :END:
+[2011-12-07 Wed 13:37]
+[[file:~/org/notes.org::*Christophers%20WM%20request][Christophers WM request]]
+*** TODO Missive missing Nov. 28th
+  :LOGBOOK:
+  CLOCK: [2011-12-07 Wed 13:38]--[2011-12-07 Wed 13:39] =>  0:01
+  :END:
+[2011-12-07 Wed 13:38]
+[[file:~/org/notes.org::*Missive%20missing%20Nov.%2028][Missive missing Nov. 28]]
+*** DONE Mikel's report
+:LOGBOOK:
+CLOCK: [2011-12-07 Wed 15:53]--[2011-12-07 Wed 16:30] =>  0:37
+:END:
+** Floyd
+*** DONE Inspect accounts removal
+:LOGBOOK:
+CLOCK: [2011-12-07 Wed 16:31]--[2011-12-07 Wed 17:00] =>  0:29
+CLOCK: [2011-12-07 Wed 14:03]--[2011-12-07 Wed 14:07] =>  0:04
+:END:
+** Marvin - STHS
+*** TODO STHS Export
+  :LOGBOOK:
+  :END:
+[2011-12-07 Wed 13:38]
+[[file:~/org/notes.org::*STHS%20export][STHS export]]
+* Floyd Reporting
+** Research, Design, Specs
+** Development
+*** WAITING Setup sftp for athena                                 :WAITING:
+  :LOGBOOK:
+  CLOCK: [2011-12-09 Fri 11:21]--[2011-12-09 Fri 11:40] =>  0:19
+  CLOCK: [2011-12-09 Fri 11:20]--[2011-12-09 Fri 11:21] =>  0:01
+  CLOCK: [2011-12-09 Fri 11:16]--[2011-12-09 Fri 11:20] =>  0:04
+  CLOCK: [2011-12-09 Fri 10:22]--[2011-12-09 Fri 11:16] =>  0:54
+  CLOCK: [2011-12-08 Thu 15:40]--[2011-12-09 Fri 16:40] =>  1:00
+  CLOCK: [2011-12-08 Thu 15:03]--[2011-12-08 Thu 15:40] =>  0:37
+  CLOCK: [2011-12-08 Thu 13:34]--[2011-12-08 Thu 15:02] =>  1:28
+  CLOCK: [2011-12-08 Thu 09:44]--[2011-12-08 Thu 12:40] =>  2:56
+  :END:
+[2011-12-07 Wed 13:37]
+*** STARTED create rpc calls to handle cron jobs rather than spinning up a seperate jova process
+:LOGBOOK:
+CLOCK: [2011-12-08 Thu 09:28]--[2011-12-08 Thu 09:29] =>  0:01
+:END:
+[2011-12-08 Thu 09:28]
+[[file:~/org/nmd.org::*refine%20import%20process%20to%20remove%20map-reduce%20step][refine import process to remove map-reduce step]]
+*** STARTED refine import process to remove map-reduce step
+:LOGBOOK:
+CLOCK: [2011-12-07 Wed 20:23]--[2011-12-07 Wed 20:37] =>  0:14
+CLOCK: [2011-12-07 Wed 19:48]--[2011-12-07 Wed 20:23] =>  0:35
+CLOCK: [2011-12-07 Wed 17:16]--[2011-12-07 Wed 17:23] =>  0:07
+:END:
+*** General Development
+:LOGBOOK:
+CLOCK: [2011-12-08 Thu 09:29]--[2011-12-08 Thu 09:44] =>  0:15
+CLOCK: [2011-12-08 Thu 09:25]--[2011-12-08 Thu 09:28] =>  0:03
+CLOCK: [2011-12-08 Thu 08:03]--[2011-12-08 Thu 08:58] =>  0:55
+:END:
+*** STARTED add suport for new options, upsert and field
+:LOGBOOK:
+CLOCK: [2011-12-09 Fri 12:01]
+CLOCK: [2011-12-09 Fri 10:19]--[2011-12-09 Fri 10:22] =>  0:03
+CLOCK: [2011-12-07 Wed 20:37]--[2011-12-07 Wed 20:38] =>  0:01
+:END:
+[2011-12-07 Wed 20:37]
+[[file:~/projects/clojure/karras/src/karras/collection.clj::(defn-%20find-and-modify*%20%5B#^DBCollection%20coll%20criteria%20modifier%20remove%20sort%20return-new%5D][file:~/projects/clojure/karras/src/karras/collection.clj::(defn- find-and-modify* [#^DBCollection coll criteria modifier remove sort return-new]]]

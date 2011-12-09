@@ -1,0 +1,16 @@
+* Task
+** TODO Add admin function to Karras
+  :LOGBOOK:
+  :END:
+[2011-12-07 Wed 13:38]
+[[file:~/org/notes.org::*Add%20admin%20functions%20to%20Karras][Add admin functions to Karras]]
+** STARTED Smoke a cigarette
+:LOGBOOK:
+CLOCK: [2011-12-07 Wed 13:48]--[2011-12-07 Wed 13:49] =>  0:01
+:END:
+[2011-12-07 Wed 13:25]
+SCHEDULED: <2011-12-07 Wed> .+1d/3d
+:PROPERTIES:
+:STYLE: habit
+:REPEAT_TO_STATE: NEXT
+:END:
